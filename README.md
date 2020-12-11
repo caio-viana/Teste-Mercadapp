@@ -1,1 +1,1 @@
-Repositório criado para a segunda fase do processo seletivo para Assessor de Suporte da Mercadapp.
+Contém as instruções SQL requeridas no teste para o processo seletivo de Assesor(a) de Suporte da Mercadapp.
